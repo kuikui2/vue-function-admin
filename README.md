@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blogs.kuikui520.top/usr/uploads/2023/07/203851713.jpg" width="200" height="200" />
+  <img src="https://s1.ax1x.com/2023/07/31/pP9WSyQ.jpg" width="200" height="200" />
 </p>
 
 <h1 align="center">vue-function-admin</h1>
