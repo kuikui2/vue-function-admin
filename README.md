@@ -2,7 +2,7 @@
   <img src="https://s1.ax1x.com/2023/07/31/pP9WSyQ.jpg" width="200" height="200" />
 </p>
 
-<h1 align="center">vue-function-admin</h1>
+<h1 align="center">Vue2-Function</h1>
 
 <p align="center">一款<b>开箱即用</b>的 Vue 中后台功能组件框架</p>
 
@@ -35,7 +35,7 @@
 ## 分支说明
 
 - `main` Vue2 版本演示源码分支，同线上演示站，包含大量示例，可用于参考学习
-- `vue-function-template`  Vue2 版本框架源码分支，不含示例代码，可直接用于实际开发
+- `Vue2-Function-Template`  Vue2 版本框架源码分支，不含示例代码，可直接用于实际开发
 
 ## 预览
 
@@ -56,5 +56,5 @@
 
 ## 支持
 
-如果觉得 vue-function-admin 这个框架不错，或者已经在使用了，希望你可以在 **Github** 或者 **Gitee(码云)** 帮我点个 ⭐ ，这将对我是极大的鼓励。
+如果觉得 Vue2-Function 这个框架不错，或者已经在使用了，希望你可以在 **Github** 或者 **Gitee(码云)** 帮我点个 ⭐ ，这将对我是极大的鼓励。
 
